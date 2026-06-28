@@ -1,12 +1,11 @@
-[![GitHub release](https://flat.badgen.net/github/release/adasjusk/Scanner)](https://github.com/adasjusk/Scanner)
-[![LabAPI Version](https://flat.badgen.net/static/LabAPI%20Version/v1.1.5)](https://github.com/northwood-studios/LabAPI)
-[![Original](https://flat.badgen.net/static/Original/Thundermaker300?icon=github)](https://github.com/Thundermaker300/Scanner/)
-[![License](https://flat.badgen.net/github/license/adasjusk/Scanner)](https://github.com/adasjusk/Scanner/blob/main/LICENSE)
-# Scanner
+[![GitHub release](https://flat.badgen.net/github/release/adasjusk/Announcer)](https://github.com/adasjusk/Announcer)
+[![LabAPI Version](https://flat.badgen.net/static/LabAPI%20Version/v1.1.7)](https://github.com/northwood-studios/LabAPI)
+[![License](https://flat.badgen.net/github/license/adasjusk/Announcer)](https://github.com/adasjusk/Announcer/blob/main/LICENSE)
+# Announcer
 An SCP:SL plugin that scans the facility and announces who is still alive. Requires LabAPI, not Exiled.
 
 > [!NOTE]
-> So this is a scanner updated version of this [Thundermaker300/Scanner](https://github.com/Thundermaker300/Scanner) <br>
+> So this is a Announcer updated version of this [Thundermaker300/Scanner](https://github.com/Thundermaker300/Scanner) <br>
 > but this repo aims to update it and fix bugs
 
 Config:

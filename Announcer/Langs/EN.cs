@@ -1,8 +1,7 @@
 using System.ComponentModel;
-
-namespace ClassScanner.Langs
+namespace Announcer.Langs
 {
-    public class EN
+    public class EN : ILang
     {
         [Description("CASSIE message when scan starts")]
         public string ScanStartMessageCassie { get; set; } = "FULL FACILITY SCAN IN {LENGTH} SECONDS";
@@ -93,5 +92,4 @@ namespace ClassScanner.Langs
 
         [Description("Caption format for Scientist count (plural)")]
         public string ScientistPluralCaption { get; set; } = "{COUNT} Scientists";
-    }
-}
+}   }
